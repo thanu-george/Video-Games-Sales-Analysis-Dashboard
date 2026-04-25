@@ -12,8 +12,7 @@ This project explores global video game sales trends across genres, platforms, a
 
 ## Dashboard Preview
 
-<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/43a49541-d1f5-46d8-98a9-4c3365961466" />
-
+<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/3e95d8d9-bc17-4596-989e-598c826e3dcc" />
 
 ## Key Insights
 
