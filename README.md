@@ -35,6 +35,10 @@ This project explores global video game sales trends across genres, platforms, a
 
 ## How to Use
 
-1. Download the `.twbx` file
+1. Download the `.twb` file
 2. Open in Tableau Desktop
 3. Use filters to explore the data
+
+## Datset
+
+Kaggle: https://www.kaggle.com/datasets/gregorut/videogamesales
